@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lifelessduck
+- 👋 Hi, I’m @Ch0nkyCat
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on ...
